@@ -1,4 +1,11 @@
 mvn compile
+kompilerar Java koden
+
 mvn test
+kör junit testerna
+
 mvn package
+bygger och paketerar projektet till en JAR
+
 mvn javadoc:javadoc
+skapar javadoc dokumentation
