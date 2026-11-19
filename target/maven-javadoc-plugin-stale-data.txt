@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'25'
+-sourcepath
+'/home/jopa/IdeaProjects/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/jopa/IdeaProjects/library/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-notimestamp
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+se.yrgo.library.models
+se.yrgo.library.utilities
+se.yrgo.library.ui
+/home/jopa/IdeaProjects/library/src/main/java = 1794912532427
+/home/jopa/IdeaProjects/library/target/reports/apidocs/index.html = 1795107911505
+/home/jopa/IdeaProjects/library/target/reports/apidocs/overview-summary.html = 1795107911526
+/home/jopa/IdeaProjects/library/target/reports/apidocs/element-list = 1795107911461
+/home/jopa/IdeaProjects/library/target/reports/apidocs/allclasses-index.html = 1795107911513
+/home/jopa/IdeaProjects/library/target/reports/apidocs/search.html = 1795107911525
+/home/jopa/IdeaProjects/library/target/reports/apidocs/type-search-index.js = 1795107911517
+/home/jopa/IdeaProjects/library/target/reports/apidocs/serialized-form.html = 1795107911481
+/home/jopa/IdeaProjects/library/target/reports/apidocs/tag-search-index.js = 1795107911518
+/home/jopa/IdeaProjects/library/target/reports/apidocs/overview-tree.html = 1795107911502
+/home/jopa/IdeaProjects/library/target/reports/apidocs/package-search-index.js = 1795107911517
+/home/jopa/IdeaProjects/library/target/reports/apidocs/index-all.html = 1795107911521
+/home/jopa/IdeaProjects/library/target/reports/apidocs/allpackages-index.html = 1795107911517
+/home/jopa/IdeaProjects/library/target/reports/apidocs/member-search-index.js = 1795107911517
+/home/jopa/IdeaProjects/library/target/reports/apidocs/module-search-index.js = 1795107911517
+/home/jopa/IdeaProjects/library/target/reports/apidocs/help-doc.html = 1795107911528
