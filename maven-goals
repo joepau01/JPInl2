@@ -1,5 +1,0 @@
-mvn compile
-mvn test
-mvn clean
-mvn package
-mvn javadoc:javadoc
